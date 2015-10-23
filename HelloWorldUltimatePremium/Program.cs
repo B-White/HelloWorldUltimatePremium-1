@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Static System.Console;
 
 namespace HelloWorldUltimatePremium
 {
@@ -12,6 +13,7 @@ namespace HelloWorldUltimatePremium
         {
             Console.WriteLine("Evan Gudmestad");
             Console.WriteLine("Ranken");
+            WriteLine("Brandon was here!!!");
         }
     }
 }
